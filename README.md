@@ -3,7 +3,7 @@
   <img src="assets/hero-light.svg" width="100%" alt="JooooDev. A hammerhead shark swims over a coral reef.">
 </picture>
 
-I'm a dive instructor who studied meteorology. I work on climate: renewable power forecasting, weather-model verification, and carbon and grid data.
+A dive instructor but work with data, major in Meteology & Sustainability.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/fin-dark.svg"><img src="assets/fin-light.svg" width="24" alt=""></picture> Work
 
